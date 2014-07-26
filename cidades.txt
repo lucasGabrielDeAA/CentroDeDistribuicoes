@@ -1,0 +1,14 @@
+Barbacena#Belo Horizonte#173
+Barbacena#Juiz De Fora#97
+Barbacena#São João Del Rei#61
+Barbacena#Lavras#146
+Barbacena#Ipatinga#395
+Belo Horizonte#Ipatinga#220
+Belo Horizonte#Lavras#223
+Belo Horizonte#São João Del Rei#186
+Belo Horizonte#Juiz de Fora#262
+Ipatinga#Lavras#453
+Ipatinga#São João Del Rei#408
+Ipatinga#Juiz de Fora#424
+Lavras#São João Del Rei#90
+Lavras#Juiz De Fora#241
