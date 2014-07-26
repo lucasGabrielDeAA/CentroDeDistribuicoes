@@ -102,6 +102,7 @@ int main()
  	 if(distancia_media[indice]==menor)
  	   printf("\n\nMenor distância média: %s\n\n", g->vertices[indice].cidade);
 
+  close(arq_cidades);
   termina_grafo(&g);
 
   return 1;
