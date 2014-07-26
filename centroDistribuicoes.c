@@ -18,6 +18,7 @@ int main()
  int indice = 0, distancia = 0, codigo_origem, codigo_destino,
      menor = 0;
 
+ //Aloca memória para o grafo.
  cria_grafo(&g);
 
  //Abre o arquivo para leitura dos dados.
@@ -102,7 +103,10 @@ int main()
  	 if(distancia_media[indice]==menor)
  	   printf("\n\nMenor distância média: %s\n\n", g->vertices[indice].cidade);
 
+  //Fecha o arquivo.
   close(arq_cidades);
+
+  //Libera a ḿemória alocada para o grafo.
   termina_grafo(&g);
 
   return 1;
